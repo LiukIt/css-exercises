@@ -1,0 +1,15 @@
+.click.me {
+    color: white;
+    background-color: rgb(138, 43, 226);
+    font-weight: bold;
+}
+
+.no.me {
+    background-color: yellow;
+}
+
+.click.me,
+.no.me {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif
+}
